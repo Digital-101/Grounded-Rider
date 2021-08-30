@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/SkateBoard.unity
+  isLoaded: 1
+  isActive: 1
