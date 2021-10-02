@@ -1,6 +1,4 @@
 # Grounded Rider
 3D Skateboard Unity Game 
 
-![Screenshot (1250)](https://user-images.githubusercontent.com/65094648/131412313-a4b9f976-4813-48a0-b5e1-a648897caf8e.png)
-
- 
+![Screenshot (1258)](https://user-images.githubusercontent.com/65094648/135731572-24efc239-6299-4959-8885-a93c849d588e.png)
